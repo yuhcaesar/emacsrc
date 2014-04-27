@@ -10,7 +10,7 @@
 (require 'yasnippet)
 (yas-global-mode 1)
 ;;theme setting
-;;(load-theme 'zenburn t)
+(load-theme 'zenburn t)
 ;;(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
 (require 'linum)
 (global-linum-mode 1)
