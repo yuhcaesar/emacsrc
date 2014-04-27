@@ -1,0 +1,28 @@
+
+;; ----- smex-history -----
+(
+ list-packages
+ auto-fill-mode
+ refill-mode
+ lpr-buffer
+ load-file
+ linum-mode
+ load-theme
+)
+
+;; ----- smex-data -----
+(
+ (list-packages . 8)
+ (menu-bar-mode . 1)
+ (disable-theme . 23)
+ (load-theme . 22)
+ (hi-lock-mode . 3)
+ (load-file . 7)
+ (lpr-buffer . 5)
+ (jedi:install-server . 20)
+ (package-install . 6)
+ (linum-mode . 1)
+ (py-execute-buffer . 7)
+ (refill-mode . 1)
+ (auto-fill-mode . 1)
+)
