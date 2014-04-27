@@ -1,0 +1,4 @@
+emacsrc
+=======
+
+my emacs config
